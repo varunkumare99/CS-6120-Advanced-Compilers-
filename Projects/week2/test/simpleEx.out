@@ -1,0 +1,5 @@
+digraph G {
+0[label="main"];
+1[label="somewhere"];
+0->1 [label=""];
+}

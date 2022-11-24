@@ -1,0 +1,1 @@
+command = "../build/createCFG {filename}"
